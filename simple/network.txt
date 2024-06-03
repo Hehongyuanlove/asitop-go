@@ -1,0 +1,15 @@
+Machine model: MacBookAir10,1
+OS version: 23D56
+Boot arguments: 
+Boot time: Mon May 13 23:44:50 2024
+
+
+
+*** Sampled system activity (Sun May 26 11:24:50 2024 +0800) (5001.23ms elapsed) ***
+
+
+
+**** Network activity ****
+
+out: 11.00 packets/s, 1214.90 bytes/s
+in:  8.60 packets/s, 447.49 bytes/s

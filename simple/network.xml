@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+<key>is_delta</key><true/>
+<key>elapsed_ns</key><integer>5001102250</integer>
+<key>hw_model</key><string>MacBookAir10,1</string>
+<key>kern_osversion</key><string>23D56</string>
+<key>kern_bootargs</key><string></string>
+<key>kern_boottime</key><integer>1715615090</integer>
+<key>timestamp</key><date>2024-05-26T03:26:03Z</date>
+<key>network</key>
+<dict>
+<key>opackets</key><integer>70</integer>
+<key>opacket_rate</key><real>13.9969</real>
+<key>ipackets</key><integer>110</integer>
+<key>ipacket_rate</key><real>21.9952</real>
+<key>obytes</key><integer>25260</integer>
+<key>obyte_rate</key><real>5050.89</real>
+<key>ibytes</key><integer>23501</integer>
+<key>ibyte_rate</key><real>4699.16</real>
+</dict>
+</dict>
+</plist>
